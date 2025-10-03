@@ -1,0 +1,111 @@
+h1 {
+    font-size: 32px; color: blue;
+}
+
+h2{
+font-weight: bold; text-align: center;
+}
+
+#first{
+    color: red;
+}
+
+#second{
+    font-size: 20px; line-height: 1.5;
+}
+
+#third{
+    text-transform: uppercase;
+}
+
+#four{
+    letter-spacing: 2px;
+}
+
+#five{
+    font-style: italic;
+}
+
+span{
+    background-color: yellow;
+}
+
+#first1{
+    padding: 20px; background-color: lightgray;
+}
+
+#second2{
+    margin: 30px; border: 2px solid black;
+}
+
+.green-link {
+    color: green;
+    text-decoration: none;
+}
+
+.blue-button {
+    background-color: blue;
+    color: white;
+}
+
+.list-padding {
+    padding: 10px;
+}
+.list-square {
+    list-style-type: square;
+}
+.list-font-size {
+    font-size: 18px;
+}
+
+.ol-margin {
+    margin-left: 20px;
+}
+.ol-bold {
+    font-weight: bold;
+}
+.ol-purple {
+    color: purple;
+}
+
+.rounded-img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.th-gray {
+    background-color: gray;
+}
+.th-padding {
+    padding: 10px;
+}
+.td-border {
+    border: 1px solid black;
+}
+.td-center {
+    text-align: center;
+}
+
+.lightblue-section {
+    background-color: lightblue;
+    padding: 20px;
+}
+
+.article-style {
+    margin: 40px auto;
+    text-align: justify;
+}
+
+.form-style {
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.input-blue-border {
+    border: 1px solid blue;
+}
+
+.footer-style {
+    font-size: 14px;
+    text-align: center;
+}
